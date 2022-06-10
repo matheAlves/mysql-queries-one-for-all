@@ -92,7 +92,7 @@ INSERT INTO `SpotifyClone`.`album` ( `album_name`, `album_artist`, `album_year`)
     ('Hallowed Steam', 4, 1995),
     ('Incandescent', 3, 1998),
     ('Temporary Culture', 2, 2001),
-    ('Library of Liberty', 2, 2003),
+    ('Library of liberty', 2, 2003),
     ('Chained Down', 5, 2007),
     ('Cabinet of fools', 5, 2012),
     ('No guarantees', 5, 2015),
